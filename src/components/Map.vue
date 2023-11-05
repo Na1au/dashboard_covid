@@ -28,26 +28,26 @@
                     <p class="title">{{ l.country }}</p>
                     <div class="columns">
                       <div class="column">
-                        <p>Cases: <ICountUp :endVal="parseInt(l.cases)" /></p>
+                        <p>Total de casos: <ICountUp :endVal="parseInt(l.cases)" /></p>
                       </div>
                     </div>
                     <div class="columns">
                       <div class="column">
-                        <p>Active:</p>
+                        <p>Ativos:</p>
                         <ICountUp :endVal="parseInt(l.active)" />
                       </div>
                       <div class="column">
-                        <p>Critical:</p>
+                        <p>Críticos:</p>
                         <ICountUp :endVal="parseInt(l.critical)" />
                       </div>
                     </div>
                     <div class="columns">
                       <div class="column">
-                        <p>Recovered:</p>
+                        <p>Recuperados:</p>
                         <ICountUp :endVal="parseInt(l.recovered)" />
                       </div>
                       <div class="column">
-                        <p>Deaths:</p>
+                        <p>Mortes:</p>
                         <ICountUp :endVal="parseInt(l.deaths)" />
                       </div>
                     </div>

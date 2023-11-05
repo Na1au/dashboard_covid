@@ -21,6 +21,9 @@ export default {
       dailyCases: [],
       options: {
         chart: {
+          toolbar: {
+            show: false
+          },
           id: "daily-cases"
         },
         xaxis: {}
@@ -75,15 +78,15 @@ export default {
 
       const series = [
         {
-          name: "Confirmed",
+          name: "Confirmados",
           data: casestotal
         },
         {
-          name: "Deceased",
+          name: "Mortes",
           data: deathstotal
         },
         {
-          name: "Recovered",
+          name: "Recuperados",
           data: recoveredtotal
         }
       ];
