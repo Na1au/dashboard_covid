@@ -47,10 +47,10 @@ Os dados são coletados através da API [Disease.sh](https://disease.sh/docs/) q
 
 ## Desenvolvedores/Contribuintes:
 
-  Desenvolvimento Front-end (etapa concluída) - [Ana Laura](https://github.com/Na1au)
-  Desenvolvimento Back-end (etapa em desenvolvimento) - [Gabrielle Gimenez](https://github.com/gabi-gimenez)
-  Documentação, pesquisa e análise de requisitos (etapa concluída) - [Gabriel Pereira](https://github.com/Gbrtoz)
-  Documentação, pesquisa e testes (etapa em andamento) - [Icaro Iyusuka](https://github.com/IcaroIyusuka)
+  Desenvolvimento Front-end - [Ana Laura](https://github.com/Na1au)   
+  Desenvolvimento Back-end - [Gabrielle Gimenez](https://github.com/gabi-gimenez)    
+  Documentação, pesquisa e análise de requisitos - [Gabriel Pereira](https://github.com/Gbrtoz)    
+  Documentação, pesquisa e testes - [Icaro Iyusuka](https://github.com/IcaroIyusuka)     
 
 ## Informações extras
  No momento o projeto ainda se utiliza 100% dos dados gerados pela API, porém, após a conclusão e teste do back-end, os dados receberão um tratamento e pré-processamento para resultar em dados mais precisos.
